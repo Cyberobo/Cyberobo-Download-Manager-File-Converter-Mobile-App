@@ -22,7 +22,7 @@ Technologies, libraries, and tools used in this project:
 
 ## 📄 License
 
-This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/Download-Manager-File-Converter-App-Final-Project/blob/main/License.txt)
+This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/Cyberobo-Download-Manager-File-Converter-Mobile-App/blob/main/License.txt)
 
 ---
 
