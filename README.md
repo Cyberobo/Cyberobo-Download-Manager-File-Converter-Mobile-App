@@ -9,16 +9,16 @@ Technologies, libraries, and tools used in this project:
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/0ece092e-6a36-478d-8c51-e1882c30d4a7" width="250">
-<img src="https://github.com/user-attachments/assets/dcb63d9a-cd86-40cb-8b50-662ab299749c" width="250">
-<img src="https://github.com/user-attachments/assets/2c7a9900-08b9-43bf-a5f0-4b2d05e16865" width="250">
-<img src="https://github.com/user-attachments/assets/fe81df51-a67b-4ae1-89de-d01acba5c377" width="250">
-<img src="https://github.com/user-attachments/assets/9145ba6c-0082-4cc2-834b-583bfc874054" width="250">
-<img src="https://github.com/user-attachments/assets/80025af4-e415-474c-b0d3-852e5a65068e" width="250">
-<img src="https://github.com/user-attachments/assets/f1b718c7-3854-4718-a620-e8f4336b04cf" width="250">
-<img src="https://github.com/user-attachments/assets/e92e4048-e4f1-4928-a4bd-f0477c88384b" width="250">
-<img src="https://github.com/user-attachments/assets/d5466a71-f7ba-4fed-aee8-c727fd731830" width="250">
-<img src="https://github.com/user-attachments/assets/7e5e2dad-ee15-44a4-891e-5f79d88b589f" width="250">
+<img src="https://github.com/user-attachments/assets/c52e7f6d-f484-4dfb-b2a7-e270c1467a8e" width="250">
+<img src="https://github.com/user-attachments/assets/11d99073-8fae-4c17-8286-b8700e0f48be" width="250">
+<img src="https://github.com/user-attachments/assets/8edb9b60-6542-42f5-a33b-e4c432a64947" width="250">
+<img src="https://github.com/user-attachments/assets/724e17d9-9fd1-497c-b5a0-2257c813d6d9" width="250">
+<img src="https://github.com/user-attachments/assets/404b39c3-2f1d-4e1d-9a18-d0f7a67f9898" width="250">
+<img src="https://github.com/user-attachments/assets/02f8739d-3d73-44ab-97d5-6dea29a9cb1d" width="250">
+<img src="https://github.com/user-attachments/assets/307b5c69-b66c-479f-b476-58978842ca53" width="250">
+<img src="https://github.com/user-attachments/assets/26fb02b4-e3c8-4d74-98da-a50ab9b84e1f" width="250">
+<img src="https://github.com/user-attachments/assets/4dd2d922-f526-4644-a670-340e7449aa7b" width="250">
+<img src="https://github.com/user-attachments/assets/a5487188-9540-4b46-bd66-26ed95b832f0" width="250">
 
 ## 📄 License
 
